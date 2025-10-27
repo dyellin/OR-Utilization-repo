@@ -2,8 +2,6 @@
 
 **A data analytics project with SQL, Google Sheets, and Tableau**
 
-![Operating Room Dashboard]([images/or_utilization_dashboard.png](https://github.com/dyellin/OR-Utilization-repo/blob/6ec0437a28ff2b84be5e71ded5363d49eb8d5672/Dashboard%202.png))
-
 ### 🔗 Project Links
 - 📘 **Dataset:** [Operating Room Utilization on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization))
 - 🧾 **SQL Script:** [`OR_Utilization_Analysis.sql`]([OR_Utilization_Analysis.sql](https://github.com/dyellin/OR-Utilization-repo/blob/2c74ad42cde1c54663661de28f511195eacf7430/OR_Utilization_Analysis.sql))
