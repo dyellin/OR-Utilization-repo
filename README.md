@@ -3,10 +3,10 @@
 **A data analytics project with SQL, Google Sheets, and Tableau**
 
 ### 🔗 Project Links
-- 📘 **Dataset:** [Operating Room Utilization on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization))
-- 🧾 **SQL Script:** [`OR_Utilization_Analysis.sql`]([OR_Utilization_Analysis.sql](https://github.com/dyellin/OR-Utilization-repo/blob/2c74ad42cde1c54663661de28f511195eacf7430/OR_Utilization_Analysis.sql))
-- 📊 **Tableau Dashboard:** [Operating Room Utilization]([https://public.tableau.com/](https://public.tableau.com/views/OR_Utilization_17410373563560/OperatingRoomUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-- 💻 **GitHub Repository:** [OR-Utilization-repo]([https://github.com/yourusername/OR-Utilization-repo](https://github.com/dyellin/OR-Utilization-repo/tree/2c74ad42cde1c54663661de28f511195eacf7430))
+- 📘 **Dataset:** [Operating Room Utilization on Kaggle](https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization)
+- 🧾 **SQL Script:** [`OR_Utilization_Analysis.sql`](https://github.com/dyellin/OR-Utilization-repo/blob/2c74ad42cde1c54663661de28f511195eacf7430/OR_Utilization_Analysis.sql)
+- 📊 **Tableau Dashboard:** [Operating Room Utilization](https://public.tableau.com/views/OR_Utilization_17410373563560/OperatingRoomUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- 💻 **GitHub Repository:** [OR-Utilization-repo](https://github.com/dyellin/OR-Utilization-repo/tree/2c74ad42cde1c54663661de28f511195eacf7430)
 
 ---
 
@@ -128,7 +128,7 @@ The interactive dashboard visualizes:
 - Average booked vs. actual duration per service  
 - Turnover time between cases  
 
-> [View the Tableau Dashboard →]([https://public.tableau.com/](https://public.tableau.com/views/OR_Utilization_17410373563560/OperatingRoomUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+> [View the Tableau Dashboard →](https://public.tableau.com/views/OR_Utilization_17410373563560/OperatingRoomUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
